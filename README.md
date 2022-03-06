@@ -16,3 +16,4 @@ Access for the Data: [Data](https://www.kaggle.com/prachi13/customer-analytics)
 3. Data Preprocessing
 4. Statistical Analysis
 5. Data Visualization and Analysis
+6. Conclusion and Recommendation
